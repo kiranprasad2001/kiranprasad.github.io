@@ -56,17 +56,20 @@ content:
   - title: Skill Set
     layout: text
     content: |
-      Skill set include:
       - Operating System     : <mark>Linux, Windows</mark>
-      - Version Controls     : <mark>SVN, GIT</mark>
+      - Version Controls     : <mark>GIT</mark>
+      - Configuration Management : <mark>Ansible</mark>
       - Build Tools          : <mark>Ant, Maven</mark>
-      - CI Tools             : <mark>Jenkins</mark>
-      - Scripting            : <mark>Shell Script</mark>
+      - CI Tools             : <mark>Jenkins, Gitlab CI</mark>
+      - Containerization tool : <mark>Docker, Kubernites</mark>
+      - Scripting            : <mark>Shell Scripting</mark>
       - Application Servers  : <mark>Tomcat, Web logic</mark>
-      - Ticketing Tool       : <mark>JIRA</mark>
+      - Ticketing Tool       : <mark>JIRA, ALM</mark>
       - DevOps tools         : <mark>Puppet</mark>
       - Ticketing tools      : <mark>Jira</mark>
       - Incident tools       : <mark>BMC remedy</mark>
+      - Artifactory Repos    : <mark>Nexus, jFrog</mark>
+      - Logging tools        : <mark>Splunk, ELK Stack</mark>
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
