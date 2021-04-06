@@ -1,6 +1,6 @@
 # Site
 repository: kiranprasad2001/resume
-favicon: images/favicon.ico
+favicon: /resume/images/favicon.ico
 
 # Content configuration version
 version: 2
@@ -30,10 +30,10 @@ linkedin_username: kiranprasad2001
 # orcid_username: 0000-0000-0000-0000
 
 # Additional icon links
-additional_links:
-- title: itsgoingto.be
-  icon: fas fa-globe
-  url: https://www.itsgoingto.be
+#additional_links:
+#- title: itsgoingto.be
+#  icon: fas fa-globe
+#  url: https://www.itsgoingto.be
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
@@ -46,7 +46,7 @@ additional_links:
 
 # About Section
 # about_title: About Me
-about_profile_image: images/profile.jpg
+about_profile_image: /resume/images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Kiran and I'm a Documaker and DevOps consultant. As well as administrating systems I also have experience making small web apps. I have worked at a number of companies gaining teamwork and leadership skills.
 
