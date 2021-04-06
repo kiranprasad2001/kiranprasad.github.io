@@ -51,7 +51,21 @@ about_profile_image: images/mylogo.png
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Kiran. I'm a Documaker and DevOps consultant. As well as administrating systems I also have experience making small web apps. I have worked at a number of companies gaining teamwork and leadership skills.
   I am most skilled in: <mark>AWS</mark>,<mark>Kubernites</mark>,<mark>Jenkins</mark> and <mark>Eating Biryani</mark>
+
 content:
+  - title: Skill Set
+    layout: text
+    content: |
+      Operating System		: Linux, Windows
+      Version Controls		: SVN, GIT
+      Build Tools			: Ant, Maven
+      CI Tools 			    : Jenkins
+      Scripting 			: Shell Script
+      Application Servers 	: Tomcat, Web logic
+      Ticketing Too			: JIRA
+      DevOps tools			: Puppet
+      Ticketing tools		: Jira
+      Incident tools		: BMC remedy
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
