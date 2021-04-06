@@ -63,6 +63,8 @@ content:
       - CI Tools             : <mark>Jenkins, Gitlab CI</mark>
       - Containerization tool : <mark>Docker, Kubernites</mark>
       - Scripting            : <mark>Shell Scripting</mark>
+    content:
+      - layout: right
       - Application Servers  : <mark>Tomcat, Web logic</mark>
       - Ticketing Tool       : <mark>JIRA, ALM</mark>
       - DevOps tools         : <mark>Puppet</mark>
