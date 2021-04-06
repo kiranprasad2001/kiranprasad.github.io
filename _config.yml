@@ -1,6 +1,6 @@
 # Site
 repository: kiranprasad2001/resume
-favicon: images/favicon.ico
+favicon: /resume/images/favicon.ico
 
 # Content configuration version
 version: 2
@@ -50,26 +50,26 @@ linkedin_username: kiranprasad2001
 about_profile_image: images/mylogo.png
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Kiran. I'm a Documaker and DevOps consultant. As well as administrating systems I also have experience making small web apps. I have worked at a number of companies gaining teamwork and leadership skills.
-
   I am most skilled in: <mark>AWS</mark>,<mark>Kubernites</mark>,<mark>Jenkins</mark> and <mark>Eating Biryani</mark>
-
 content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: Super awesome projects
-        #link: https://kiranprasad2001.github.io/resume
+        title: Super awesome project
+        #link: https://kiranprasad2001.github.io/resume/
         # link_text: Project Website
         additional_links:
           - title:  Resume
             icon: fab fa-github
-            url: https://kiranprasad2001.github.io/resume
+            url: https://kiranprasad2001.github.io/resume/
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
           Nothing much - under construction
         description: | # this will include new lines to allow paragraphs
           I started this project as a way if learning <mark>webapps</mark> and in progress of completing it
-
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -83,7 +83,6 @@ content:
           Solving 21st century problems by ensuring deployments are automated and issues are not popping up.
         description: | # this will include new lines to allow paragraphs
             Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
-
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -95,7 +94,6 @@ content:
           V R Siddhartha is the oldest higher education institution in Andhra Pradesh, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the state but also in India.
         description: | # this will include new lines to allow paragraphs
           During my time at college, I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time at college and learnt a lot about a healthy work life balance.
-
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
@@ -103,16 +101,14 @@ content:
       - Trekking
       - Backpacking
       - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
-
       Look at this cool image  
       ![Lake](images/lake-kiran.jpg "Lake")
-
 # Footer
 footer_show_references: true
 # references_title: References on request (Override references text)
 
 # Build settings
-remote_theme: kiranprasad2001/resume-theme
+remote_theme: sproogen/resume-theme
 
 sass:
   sass_dir: _sass
@@ -120,7 +116,3 @@ sass:
 
 plugins:
  - jekyll-seo-tag
- 
- 
- 
- 
