@@ -108,7 +108,7 @@ content:
       - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
 
       Look at this cool image  
-      ![Lake](/resume/images/lake-kiran.jpg "Lake")
+      ![Lake](images/lake-kiran.jpg "Lake")
 
 # Footer
 footer_show_references: true
