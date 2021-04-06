@@ -56,16 +56,16 @@ content:
   - title: Skill Set
     layout: text
     content: |
-      Operating System		: Linux, Windows
-      Version Controls		: SVN, GIT
-      Build Tools			: Ant, Maven
-      CI Tools 			    : Jenkins
-      Scripting 			: Shell Script
-      Application Servers 	: Tomcat, Web logic
-      Ticketing Too			: JIRA
-      DevOps tools			: Puppet
-      Ticketing tools		: Jira
-      Incident tools		: BMC remedy
+     - Operating System     : Linux, Windows
+     - Version Controls     : SVN, GIT
+     - Build Tools          : Ant, Maven
+     - CI Tools             : Jenkins
+     - Scripting            : Shell Script
+     - Application Servers  : Tomcat, Web logic
+     - Ticketing Tool       : JIRA
+     - DevOps tools         : Puppet
+     - Ticketing tools      : Jira
+     - Incident tools       : BMC remedy
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
