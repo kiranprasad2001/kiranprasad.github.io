@@ -9,7 +9,7 @@ version: 2
 name: Kiran Prasad
 title: DevOps and CCM Consultant
 email: kiranprasad2001@gmail.com
-website: https://spotrot.com/resume
+website: https://spotrot.com/
 
 # Dark Mode (true/false/never)
 darkmode: false
@@ -75,12 +75,12 @@ content:
     content:
       - layout: top-middle
         title: My Resume
-        #link: https://kiranprasad2001.github.io/resume/
+        #link: https://spotrot.com/resume/
         # link_text: Project Website
         additional_links:
           - title:  Resume
             icon: fab fa-github
-            url: https://kiranprasad2001.github.io/resume/
+            url: https://spotrot.com/resume/
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
